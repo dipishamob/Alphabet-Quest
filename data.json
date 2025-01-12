@@ -1,0 +1,6337 @@
+{
+  "project": [
+    "Alphabetical Order",
+    "Loading",
+    [
+      [
+        [
+          0,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          1
+        ],
+        [
+          5,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          true,
+          false,
+          false,
+          1
+        ],
+        [
+          7,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          1
+        ],
+        [
+          8,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          1
+        ],
+        [
+          9,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          1
+        ],
+        [
+          10,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          1
+        ],
+        [
+          11,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          1
+        ],
+        [
+          12,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          true,
+          false,
+          false,
+          1
+        ]
+      ],
+      [
+        [1, 1],
+        [2, 1],
+        [3, 1],
+        [4, 1],
+        [6, 1]
+      ]
+    ],
+    [
+      [
+        "PlayButton",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            932238662798194,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                100,
+                209,
+                150,
+                150,
+                false,
+                1,
+                0.506667,
+                0.48,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        228429220252782,
+        [],
+        null,
+        0,
+        null
+      ],
+      [
+        "CloseButton",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            952363188895553,
+            [
+              [
+                "images/shared-0-sheet2.png",
+                31860,
+                67,
+                1,
+                64,
+                64,
+                false,
+                1,
+                0.5,
+                0.25,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        256937215966875,
+        [],
+        null,
+        1,
+        null
+      ],
+      [
+        "SoundButton",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            183202753436544,
+            [
+              [
+                "images/shared-0-sheet2.png",
+                31860,
+                133,
+                1,
+                64,
+                64,
+                false,
+                1,
+                0.546875,
+                0.4375,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet2.png",
+                31860,
+                1,
+                129,
+                64,
+                64,
+                false,
+                1,
+                0.546875,
+                0.4375,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        800163049506744,
+        [],
+        null,
+        2,
+        null
+      ],
+      [
+        "Name",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            681327517068503,
+            [
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                1571,
+                1,
+                908,
+                385,
+                true,
+                1,
+                0.5022026431718062,
+                0.49825059740259725,
+                [],
+                [
+                  -0.5022026431718062, 0.08539879480519497, 0.0072211453744494,
+                  -0.49825059740259725, 0.4977973568281938, 0.1992638545454546,
+                  0.12638061674008805, -0.06642073766233747, 0.0072211453744494,
+                  0.5017494025974027, -0.11554889867841411, -0.06642073766233747
+                ],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        538440095474392,
+        [],
+        null,
+        3,
+        null
+      ],
+      [
+        "Pause",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            648940179089106,
+            [
+              [
+                "images/shared-0-sheet2.png",
+                31860,
+                1,
+                1,
+                64,
+                64,
+                false,
+                1,
+                0.5,
+                0.4375,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        702207213932548,
+        [],
+        null,
+        4,
+        null
+      ],
+      [
+        "CoinsCollect",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            360483202757774,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                193,
+                563,
+                198,
+                53,
+                true,
+                1,
+                0.474747,
+                0.45283,
+                [],
+                [
+                  -0.44444399999999995, -0.339622, 0.025253000000000025,
+                  -0.39622620000000003, 0.49495000000000006, -0.339622,
+                  0.520203, 0.03773599999999999, 0.5, 0.45283,
+                  0.025253000000000025, 0.5094339999999999,
+                  -0.44949449999999996, 0.45283, -0.46969648999999997,
+                  0.03773599999999999
+                ],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        618363588394119,
+        [],
+        null,
+        5,
+        null
+      ],
+      [
+        "CapLetters",
+        0,
+        false,
+        [],
+        2,
+        1,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            209930730431417,
+            [
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                1,
+                1,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                83,
+                1,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                165,
+                1,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                247,
+                1,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                329,
+                1,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                411,
+                1,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                83,
+                165,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                1,
+                83,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                83,
+                83,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                165,
+                129,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                247,
+                129,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                329,
+                129,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                411,
+                129,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                1,
+                165,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                165,
+                257,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                247,
+                257,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                329,
+                257,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                411,
+                257,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                1,
+                257,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                83,
+                257,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                165,
+                385,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                247,
+                385,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                329,
+                385,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                411,
+                385,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                1,
+                385,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/capletters-sheet0.png",
+                73637,
+                83,
+                385,
+                80,
+                80,
+                false,
+                1,
+                0.508475,
+                0.508475,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [
+          ["Fade", 1, 165642520651463, 6],
+          ["MoveTo", 2, 535043891129507, 7]
+        ],
+        false,
+        false,
+        724496317471886,
+        [["hsladjust", "AdjustHSL"]],
+        null,
+        8,
+        null
+      ],
+      [
+        "Clouds",
+        0,
+        false,
+        [],
+        2,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            576985921816040,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                1,
+                1,
+                421,
+                97,
+                true,
+                1,
+                0.501188,
+                0.505155,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                100,
+                361,
+                319,
+                59,
+                true,
+                1,
+                0.501567,
+                0.508475,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                1025,
+                1793,
+                577,
+                110,
+                false,
+                1,
+                0.500867,
+                0.5,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                1,
+                1921,
+                725,
+                93,
+                false,
+                1,
+                0.50069,
+                0.505376,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                892,
+                1921,
+                1103,
+                108,
+                false,
+                1,
+                0.500453,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [
+          ["Sine", 3, 262925806214104, 9],
+          ["Wrap", 4, 904976450663160, 10]
+        ],
+        false,
+        false,
+        396447172394334,
+        [],
+        null,
+        11,
+        null
+      ],
+      [
+        "Black",
+        5,
+        false,
+        [],
+        0,
+        0,
+        ["images/black-sheet0.png", 89, 0, 0, 5, 5, false],
+        null,
+        [],
+        false,
+        false,
+        264601825419163,
+        [],
+        null,
+        12,
+        [1, 1]
+      ],
+      [
+        "Finish",
+        0,
+        false,
+        [],
+        1,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            505256272081585,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                1,
+                424,
+                217,
+                70,
+                true,
+                1,
+                0.5,
+                0.5,
+                [],
+                [
+                  -0.002304147465437778, -0.43265600000000004, 0.5,
+                  -0.04081828571428575, -0.002304147465437778, 0.5, -0.5,
+                  -0.04081828571428575
+                ],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [["Sine", 3, 345833410432936, 9]],
+        false,
+        false,
+        331497716625836,
+        [],
+        null,
+        13,
+        null
+      ],
+      [
+        "Help",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            578734539946280,
+            [
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                483,
+                1,
+                854,
+                480,
+                true,
+                1,
+                0,
+                0,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        752806938687166,
+        [],
+        null,
+        14,
+        null
+      ],
+      [
+        "Main",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            903612128913838,
+            [
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                1,
+                1,
+                854,
+                480,
+                true,
+                1,
+                0,
+                0,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        true,
+        740870390864398,
+        [],
+        null,
+        15,
+        null
+      ],
+      [
+        "Menu",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            410720997860478,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                1,
+                784,
+                100,
+                100,
+                false,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        579485847169324,
+        [],
+        null,
+        16,
+        null
+      ],
+      [
+        "Restart",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            455809824834673,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                103,
+                897,
+                100,
+                100,
+                false,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        142584361794222,
+        [],
+        null,
+        17,
+        null
+      ],
+      [
+        "ScoreBoard",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            5,
+            false,
+            1,
+            0,
+            false,
+            166539143665120,
+            [
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                515,
+                1025,
+                625,
+                375,
+                true,
+                1,
+                0.4992,
+                0.4693333333333333,
+                [],
+                [
+                  -0.23519999999999996, -0.46399999999999997, 0.2368,
+                  -0.46399999999999997, 0.352, -0.4, 0.4272, -0.296,
+                  0.23199999999999998, 0.5253333333333334, -0.344,
+                  0.46666666666666673, -0.4256, -0.296, -0.3151999999999999,
+                  -0.42933333333333334
+                ],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        475239554877414,
+        [],
+        null,
+        18,
+        null
+      ],
+      [
+        "Screen",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            470465755743675,
+            [
+              [
+                "images/shared-0-sheet2.png",
+                31860,
+                67,
+                129,
+                64,
+                64,
+                false,
+                1,
+                0.5,
+                0.4375,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet2.png",
+                31860,
+                133,
+                129,
+                64,
+                64,
+                false,
+                1,
+                0.5,
+                0.4375,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        868884826950301,
+        [],
+        null,
+        19,
+        null
+      ],
+      [
+        "Skip",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            289646896349471,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                1,
+                897,
+                100,
+                100,
+                false,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        721097453496812,
+        [],
+        null,
+        20,
+        null
+      ],
+      [
+        "Sound",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            579699277812600,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                103,
+                769,
+                100,
+                100,
+                false,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ],
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                1,
+                682,
+                100,
+                100,
+                false,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        199327261736318,
+        [],
+        null,
+        21,
+        null
+      ],
+      [
+        "Star",
+        0,
+        false,
+        [],
+        1,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            836662246166370,
+            [
+              [
+                "images/shared-0-sheet0.png",
+                2211073,
+                965,
+                1,
+                604,
+                608,
+                false,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [["Rotate", 6, 952598642890988, 22]],
+        false,
+        false,
+        264187040852966,
+        [],
+        null,
+        23,
+        null
+      ],
+      [
+        "Start",
+        0,
+        false,
+        [],
+        0,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            676655493977998,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                161,
+                361,
+                200,
+                80,
+                true,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [],
+        false,
+        false,
+        474474766449786,
+        [],
+        null,
+        24,
+        null
+      ],
+      [
+        "Tap",
+        0,
+        false,
+        [[509318150046456, 0, "Active", 25]],
+        1,
+        0,
+        null,
+        [
+          [
+            "Default",
+            0,
+            false,
+            1,
+            0,
+            false,
+            435965936911830,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                216,
+                769,
+                215,
+                35,
+                true,
+                1,
+                0.497674,
+                0.514286,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [["Sine", 3, 140250847698958, 9]],
+        false,
+        false,
+        947611283436095,
+        [],
+        null,
+        26,
+        null
+      ],
+      [
+        "TiledBackground1",
+        5,
+        false,
+        [],
+        0,
+        0,
+        ["images/tiledbackground1-sheet0.png", 613, 0, 0, 1, 480, false],
+        null,
+        [],
+        false,
+        false,
+        118411225670026,
+        [],
+        null,
+        27,
+        [1, 1]
+      ],
+      [
+        "TiledBackground2",
+        5,
+        false,
+        [],
+        0,
+        0,
+        ["images/tiledbackground2-sheet0.png", 397, 0, 0, 1, 720, false],
+        null,
+        [],
+        false,
+        false,
+        921157664044309,
+        [],
+        null,
+        28,
+        [1, 1]
+      ],
+      [
+        "Over",
+        0,
+        false,
+        [],
+        1,
+        0,
+        null,
+        [
+          [
+            "Default",
+            5,
+            false,
+            1,
+            0,
+            false,
+            800433035199898,
+            [
+              [
+                "images/shared-0-sheet1.png",
+                197050,
+                129,
+                1,
+                206,
+                119,
+                true,
+                1,
+                0.5,
+                0.5,
+                [],
+                [],
+                ""
+              ]
+            ]
+          ]
+        ],
+        [["Sine", 3, 508774440525819, 9]],
+        false,
+        false,
+        147324735770253,
+        [],
+        null,
+        29,
+        null
+      ],
+      [
+        "Audio",
+        7,
+        false,
+        [],
+        0,
+        0,
+        null,
+        null,
+        [],
+        false,
+        false,
+        750658369622012,
+        [],
+        null,
+        30,
+        null,
+        [0, 0, false, 0, false, 1, 1, 600, 600, 10000, 1]
+      ],
+      [
+        "Browser",
+        8,
+        false,
+        [],
+        0,
+        0,
+        null,
+        null,
+        [],
+        false,
+        false,
+        714367823848194,
+        [],
+        null,
+        31,
+        null,
+        []
+      ],
+      [
+        "Function",
+        9,
+        false,
+        [],
+        0,
+        0,
+        null,
+        null,
+        [],
+        false,
+        false,
+        734217428610923,
+        [],
+        null,
+        32,
+        null,
+        []
+      ],
+      [
+        "Touch",
+        10,
+        false,
+        [],
+        0,
+        0,
+        null,
+        null,
+        [],
+        false,
+        false,
+        314841488045729,
+        [],
+        null,
+        33,
+        null,
+        [true]
+      ],
+      [
+        "LocalStorage",
+        11,
+        false,
+        [],
+        0,
+        0,
+        null,
+        null,
+        [],
+        false,
+        false,
+        757031527952553,
+        [],
+        null,
+        34,
+        null,
+        []
+      ],
+      [
+        "SpriteFont1",
+        12,
+        false,
+        [],
+        0,
+        0,
+        ["images/shared-0-sheet0.png", 2211073, 1, 1025, 512, 512, false],
+        null,
+        [],
+        false,
+        true,
+        421402168075161,
+        [],
+        null,
+        35,
+        null
+      ],
+      [
+        "SpriteFont2",
+        12,
+        false,
+        [[964578668365055, 2, "ID", 36]],
+        0,
+        0,
+        ["images/shared-0-sheet0.png", 2211073, 965, 1025, 512, 512, false],
+        null,
+        [],
+        false,
+        false,
+        226120280127156,
+        [],
+        null,
+        37,
+        null
+      ],
+      [
+        "SpriteFont3",
+        12,
+        false,
+        [[999841569542540, 2, "ID", 36]],
+        0,
+        0,
+        ["images/shared-0-sheet0.png", 2211073, 1479, 1025, 512, 512, false],
+        null,
+        [],
+        false,
+        false,
+        563639066906475,
+        [],
+        null,
+        38,
+        null
+      ],
+      [
+        "Buttons",
+        0,
+        true,
+        [],
+        0,
+        0,
+        null,
+        null,
+        [],
+        false,
+        false,
+        261060470934884,
+        [],
+        null,
+        39,
+        null
+      ]
+    ],
+    [[32, 1, 12, 4, 0, 13, 16, 17, 2]],
+    [
+      [
+        "Game",
+        1280,
+        720,
+        false,
+        false,
+        0.5,
+        0.5,
+        "Game",
+        692787815524812,
+        [
+          [
+            "BG",
+            0,
+            847702042535890,
+            true,
+            [255, 255, 255],
+            false,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  0,
+                  0,
+                  0,
+                  1280,
+                  720,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0,
+                  0,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                22,
+                706,
+                [],
+                [],
+                [true, 0, 1, 1, 0, 0, 1, 1, 0, false, 1, 1, 1, 0.1, 0.1]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Game",
+            1,
+            933457433495572,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  315,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                12,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  431,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                13,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 1, true]
+              ],
+              [
+                [
+                  552,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                14,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 2, true]
+              ],
+              [
+                [
+                  659,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                15,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 3, true]
+              ],
+              [
+                [
+                  764,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                16,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 4, true]
+              ],
+              [
+                [
+                  865,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                17,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 5, true]
+              ],
+              [
+                [
+                  966,
+                  207,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                18,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 6, true]
+              ],
+              [
+                [
+                  315,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                19,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 7, true]
+              ],
+              [
+                [
+                  431,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                20,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 8, true]
+              ],
+              [
+                [
+                  552,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                21,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 9, true]
+              ],
+              [
+                [
+                  659,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                22,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 10, true]
+              ],
+              [
+                [
+                  764,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                23,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 11, true]
+              ],
+              [
+                [
+                  865,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                24,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 12, true]
+              ],
+              [
+                [
+                  966,
+                  316,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                25,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 13, true]
+              ],
+              [
+                [
+                  315,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                26,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 14, true]
+              ],
+              [
+                [
+                  431,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                27,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 15, true]
+              ],
+              [
+                [
+                  552,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                28,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 16, true]
+              ],
+              [
+                [
+                  659,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                29,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 17, true]
+              ],
+              [
+                [
+                  764,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                30,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 18, true]
+              ],
+              [
+                [
+                  865,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                31,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 19, true]
+              ],
+              [
+                [
+                  966,
+                  420,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                32,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 20, true]
+              ],
+              [
+                [
+                  315,
+                  517,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                33,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 21, true]
+              ],
+              [
+                [
+                  431,
+                  517,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                34,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 22, true]
+              ],
+              [
+                [
+                  552,
+                  517,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                35,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 23, true]
+              ],
+              [
+                [
+                  659,
+                  517,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                36,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 24, true]
+              ],
+              [
+                [
+                  764,
+                  517,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                37,
+                [],
+                [
+                  [0, 0.5, 0.5, true, false],
+                  [200, 600, 600, 0, false, false, true]
+                ],
+                [true, "Default", 25, true]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "UI",
+            2,
+            476233517994634,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  1247.311946208743,
+                  31.602047067349893,
+                  0,
+                  49.37610758251404,
+                  49.37610758251404,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.4375,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                4,
+                733,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  105.636993408,
+                  31.727462769,
+                  0,
+                  198,
+                  53,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.474747,
+                  0.45283,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                5,
+                734,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  93.714492798,
+                  36.727458954,
+                  0,
+                  150,
+                  58,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                29,
+                735,
+                [],
+                [],
+                [
+                  "00",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.6,
+                  -15,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ],
+              [
+                [
+                  640.182,
+                  33.272537231,
+                  0,
+                  422,
+                  59,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                30,
+                736,
+                [""],
+                [],
+                [
+                  "TIME",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.6,
+                  -15,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Help",
+            3,
+            150800883388977,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  0,
+                  0,
+                  0,
+                  1280,
+                  720,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0,
+                  0,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                10,
+                3235,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  640,
+                  482,
+                  0,
+                  200,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                19,
+                3236,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  640,
+                  201,
+                  0,
+                  833,
+                  61,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                31,
+                3237,
+                [""],
+                [],
+                [
+                  "HOW TO PLAY",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.5,
+                  -10,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ],
+              [
+                [
+                  640,
+                  348,
+                  0,
+                  1070,
+                  177.636871338,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                31,
+                3435,
+                ["HTP"],
+                [],
+                [
+                  "TOUCH THE LETTERS IN ALPHABETICAL ORDER.",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.5,
+                  -10,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Pause",
+            4,
+            612594376026576,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ]
+        ],
+        [],
+        []
+      ],
+      [
+        "Loading",
+        1280,
+        720,
+        false,
+        false,
+        0.5,
+        0.5,
+        "Loading",
+        321146879100707,
+        [
+          [
+            "Layer 0",
+            0,
+            922169460127602,
+            true,
+            [170, 96, 0],
+            false,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  0,
+                  0,
+                  0,
+                  1280,
+                  720,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0,
+                  0,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                11,
+                74,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Layer 1",
+            1,
+            616374810923252,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  640,
+                  391,
+                  0,
+                  575,
+                  99,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                29,
+                78,
+                [],
+                [],
+                [
+                  "LOADING",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.9,
+                  -25,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ]
+        ],
+        [],
+        []
+      ],
+      [
+        "Start",
+        1280,
+        720,
+        false,
+        false,
+        0.5,
+        0.5,
+        "Start",
+        252694152778975,
+        [
+          [
+            "BG",
+            0,
+            156599396182096,
+            true,
+            [0, 0, 0],
+            false,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  0,
+                  0,
+                  0,
+                  1280,
+                  720,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0,
+                  0,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                21,
+                77,
+                [],
+                [],
+                [true, 0, 1, 1, 0, 0, 1, 1, 0, false, 1, 1, 1, 0.1, 0.1]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Items",
+            1,
+            338054182115405,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  160,
+                  53,
+                  0,
+                  319,
+                  59,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.501567,
+                  0.508475,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3394,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 1, false]
+              ],
+              [
+                [
+                  761,
+                  53,
+                  0,
+                  421,
+                  97,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.501188,
+                  0.505155,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3395,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  446,
+                  440,
+                  0,
+                  952.873718262,
+                  93.300415039,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.500453,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3396,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 4, false]
+              ],
+              [
+                [
+                  205,
+                  251,
+                  0,
+                  483.851867676,
+                  62.066513062000006,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.50069,
+                  0.505376,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3397,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 3, false]
+              ],
+              [
+                [
+                  648,
+                  317,
+                  0,
+                  385.079345703,
+                  73.412002563,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.500867,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3398,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 2, false]
+              ],
+              [
+                [
+                  909,
+                  190,
+                  0,
+                  370.46688842800006,
+                  68.518951416,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.501567,
+                  0.508475,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3399,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 1, false]
+              ],
+              [
+                [
+                  1150,
+                  332,
+                  0,
+                  370.46688842800006,
+                  68.518951416,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.501567,
+                  0.508475,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3400,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 1, false]
+              ],
+              [
+                [
+                  8,
+                  136,
+                  0,
+                  488.923400879,
+                  112.649803162,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.501188,
+                  0.505155,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                7,
+                3401,
+                [],
+                [[0, 0, 6, 5, 2, 1, 50, 25, true], [0]],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  640,
+                  384,
+                  0,
+                  547.378967285,
+                  551.00402832,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                18,
+                3387,
+                [],
+                [[20, 0, true]],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  642,
+                  159,
+                  0,
+                  471.92960482979515,
+                  200.10231041791974,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5022026431718062,
+                  0.49825059740259725,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                3,
+                75,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Buttons",
+            2,
+            594499989856782,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  641,
+                  400,
+                  0,
+                  150,
+                  150,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.506667,
+                  0.48,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                0,
+                5,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  40,
+                  24,
+                  0,
+                  64,
+                  64,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.25,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                1,
+                6,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  643,
+                  601,
+                  0,
+                  64,
+                  64,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.546875,
+                  0.4375,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                2,
+                63,
+                [],
+                [],
+                [true, "Default", 1, false]
+              ],
+              [
+                [
+                  1240,
+                  38,
+                  0,
+                  64,
+                  64,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.4375,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                15,
+                8,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ]
+        ],
+        [],
+        []
+      ],
+      [
+        "Score",
+        1280,
+        720,
+        false,
+        false,
+        0.5,
+        0.5,
+        "Score",
+        308379207788358,
+        [
+          [
+            "BG",
+            0,
+            523348836388620,
+            true,
+            [216, 130, 0],
+            false,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  640,
+                  387,
+                  0,
+                  921.548034668,
+                  927.651062012,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                18,
+                3379,
+                [],
+                [[20, 0, true]],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  639.5,
+                  384,
+                  0,
+                  657.2633569117119,
+                  393.72704132439173,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.4992,
+                  0.4693333333333333,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                14,
+                3386,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  641.096,
+                  172.40098838827367,
+                  0,
+                  498.6941787980427,
+                  211.45071802150278,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5022026431718062,
+                  0.49825059740259725,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                3,
+                9,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Items",
+            1,
+            216128744045848,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  576,
+                  594,
+                  0,
+                  100,
+                  100,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                13,
+                3381,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  704,
+                  594,
+                  0,
+                  100,
+                  100,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                16,
+                3380,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  638,
+                  367,
+                  0,
+                  412,
+                  99,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                29,
+                3383,
+                [],
+                [],
+                [
+                  "SCORE",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.6,
+                  -10,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ],
+              [
+                [
+                  644,
+                  497,
+                  0,
+                  353,
+                  66,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                30,
+                3384,
+                ["S"],
+                [],
+                [
+                  "SCORE",
+                  false,
+                  64,
+                  64,
+                  "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;?!-+=~&$%()\\/{}[]<>^*▲▼@",
+                  "",
+                  0.6,
+                  -10,
+                  0,
+                  1,
+                  1,
+                  0,
+                  true,
+                  4,
+                  false
+                ]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ]
+        ],
+        [],
+        []
+      ],
+      [
+        "Contents",
+        1280,
+        720,
+        false,
+        false,
+        0.5,
+        0.5,
+        null,
+        940032239156091,
+        [
+          [
+            "Layer 0",
+            0,
+            930241929959170,
+            true,
+            [135, 135, 135],
+            false,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  50,
+                  53.5,
+                  0,
+                  80,
+                  80,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.508475,
+                  0.508475,
+                  0,
+                  0,
+                  [[true, 0, 1, 1]],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                6,
+                10,
+                [],
+                [
+                  [0, 1, 1, true, false],
+                  [200, 600, 600, 0, true, false, true]
+                ],
+                [true, "Default", 0, true]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ],
+          [
+            "Layer 1",
+            1,
+            326656717476516,
+            true,
+            [255, 255, 255],
+            true,
+            1,
+            1,
+            1,
+            false,
+            false,
+            1,
+            0,
+            true,
+            [
+              [
+                [
+                  0,
+                  0,
+                  0,
+                  1280,
+                  720,
+                  0,
+                  0,
+                  [1, 1, 1, 0.5],
+                  0,
+                  0,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                8,
+                3377,
+                [],
+                [],
+                [true, 0, 1, 1, 0, 0, 1, 1, 0, false, 1, 1, 1, 0.1, 0.1]
+              ],
+              [
+                [
+                  640,
+                  437,
+                  0,
+                  164.0625,
+                  162.037033081,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.506667,
+                  0.48,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                0,
+                3373,
+                [],
+                [],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  640,
+                  267,
+                  0,
+                  100,
+                  100,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                12,
+                3374,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  803,
+                  267,
+                  0,
+                  100,
+                  100,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                13,
+                3375,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  477,
+                  267,
+                  0,
+                  100,
+                  100,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                17,
+                3376,
+                [],
+                [],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  147,
+                  661,
+                  0,
+                  215,
+                  35,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.497674,
+                  0.514286,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                20,
+                3378,
+                [0],
+                [[5, 0, 4, 0, 0, 0, 50, 0, true]],
+                [true, "Default", 0, false]
+              ],
+              [
+                [
+                  137,
+                  542,
+                  0,
+                  206,
+                  119,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                23,
+                39,
+                [],
+                [[5, 0, 1, 0, 0, 0, 50, 0, true]],
+                [true, "Default", 0, true]
+              ],
+              [
+                [
+                  137,
+                  415,
+                  0,
+                  217,
+                  70,
+                  0,
+                  0,
+                  [1, 1, 1, 1],
+                  0.5,
+                  0.5,
+                  0,
+                  0,
+                  [],
+                  null,
+                  null,
+                  null,
+                  ["", ""]
+                ],
+                9,
+                40,
+                [],
+                [[5, 0, 1, 0, 0, 0, 50, 0, true]],
+                [true, "Default", 0, true]
+              ]
+            ],
+            [],
+            0,
+            true,
+            false,
+            false,
+            []
+          ]
+        ],
+        [],
+        []
+      ]
+    ],
+    [
+      [
+        "Game",
+        [
+          [2, "Pause", false],
+          [2, "Audio", false],
+          [
+            3,
+            [true, "Start"],
+            false,
+            null,
+            462684660331443,
+            1,
+            [[-1, 13, null, 0, false, false, false, 0, false, [[1, [0]]]]],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                675621352169474,
+                2,
+                [[-1, 14, null, 1, false, false, false, 662844273665265, null]],
+                [
+                  [
+                    -1,
+                    15,
+                    null,
+                    621087044259078,
+                    0,
+                    null,
+                    [
+                      [11, 303351563276667],
+                      [7, [1]]
+                    ]
+                  ],
+                  [
+                    -1,
+                    15,
+                    null,
+                    787609772364309,
+                    0,
+                    null,
+                    [
+                      [11, 963240917556636],
+                      [7, [2, [3, 879303435576152]]]
+                    ]
+                  ],
+                  [
+                    -1,
+                    15,
+                    null,
+                    183567733688276,
+                    0,
+                    null,
+                    [
+                      [11, 690062105903148],
+                      [7, [1]]
+                    ]
+                  ],
+                  [4, 16, null, 576250554447895, 0, null, [[0, [3]]]],
+                  [
+                    -1,
+                    17,
+                    null,
+                    989738481695107,
+                    0,
+                    null,
+                    [
+                      [5, [4]],
+                      [3, 1]
+                    ]
+                  ],
+                  [
+                    -1,
+                    18,
+                    null,
+                    205279991633265,
+                    0,
+                    null,
+                    [
+                      [1, [5]],
+                      [3, 0]
+                    ]
+                  ],
+                  [
+                    6,
+                    19,
+                    null,
+                    320526306560357,
+                    0,
+                    null,
+                    [
+                      [1, [6]],
+                      [0, [1]],
+                      [0, [7, [4, 20]]]
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    0,
+                    0,
+                    false,
+                    null,
+                    389173969598149,
+                    3,
+                    [
+                      [
+                        31,
+                        21,
+                        null,
+                        0,
+                        false,
+                        false,
+                        false,
+                        731164250470119,
+                        null,
+                        [
+                          [10, 0],
+                          [8, 0],
+                          [7, [8]]
+                        ]
+                      ]
+                    ],
+                    [
+                      [
+                        31,
+                        22,
+                        null,
+                        342254274610142,
+                        0,
+                        null,
+                        [[7, [2, [3, 481350889591931]]]]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                199414989784896,
+                4,
+                [[-1, 23, null, 0, false, false, false, 109940172635829, null]],
+                [
+                  [
+                    29,
+                    22,
+                    null,
+                    878756041614658,
+                    0,
+                    null,
+                    [[7, [2, [3, 690062105903148]]]]
+                  ],
+                  [
+                    30,
+                    22,
+                    null,
+                    315406938344040,
+                    0,
+                    null,
+                    [[7, [9, [3, 963240917556636]]]]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                401925022929383,
+                5,
+                [
+                  [
+                    27,
+                    24,
+                    null,
+                    1,
+                    false,
+                    false,
+                    false,
+                    598083633018766,
+                    null,
+                    [
+                      [4, 19],
+                      [3, 0]
+                    ]
+                  ]
+                ],
+                [],
+                [
+                  [
+                    0,
+                    0,
+                    false,
+                    null,
+                    331849805772227,
+                    6,
+                    [
+                      [
+                        -1,
+                        25,
+                        null,
+                        0,
+                        false,
+                        false,
+                        false,
+                        145138635180877,
+                        null,
+                        [[5, [4]]]
+                      ]
+                    ],
+                    [
+                      [-1, 26, null, 496686066068758, 1, null, [[0, [10]]]],
+                      [
+                        -1,
+                        17,
+                        null,
+                        277517455687652,
+                        0,
+                        null,
+                        [
+                          [5, [4]],
+                          [3, 0]
+                        ]
+                      ],
+                      [
+                        -1,
+                        27,
+                        null,
+                        963668528169485,
+                        256,
+                        null,
+                        [
+                          [4, 20],
+                          [5, [11]],
+                          [0, [12]],
+                          [0, [13]],
+                          [16, false],
+                          [20, [14]]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                339615725244335,
+                7,
+                [[27, 28, null, 1, false, false, false, 705412357259678, null]],
+                [],
+                [
+                  [
+                    0,
+                    0,
+                    false,
+                    null,
+                    621104793038198,
+                    8,
+                    [
+                      [
+                        20,
+                        29,
+                        null,
+                        0,
+                        false,
+                        true,
+                        false,
+                        204321860925425,
+                        null,
+                        [[10, 0]]
+                      ],
+                      [
+                        20,
+                        30,
+                        null,
+                        0,
+                        false,
+                        false,
+                        false,
+                        324051131199645,
+                        null
+                      ],
+                      [
+                        -1,
+                        25,
+                        null,
+                        0,
+                        false,
+                        true,
+                        false,
+                        875727634490672,
+                        null,
+                        [[5, [4]]]
+                      ]
+                    ],
+                    [
+                      [-1, 26, null, 933903080966948, 1, null, [[0, [15]]]],
+                      [
+                        -1,
+                        18,
+                        null,
+                        417895289451693,
+                        0,
+                        null,
+                        [
+                          [1, [5]],
+                          [3, 1]
+                        ]
+                      ],
+                      [4, 16, null, 888638116375854, 0, null, [[0, [16]]]],
+                      [20, 31, null, 644250360847839, 0, null],
+                      [
+                        6,
+                        32,
+                        "MoveTo",
+                        642760659857077,
+                        0,
+                        null,
+                        [
+                          [0, [17, [4, 20]]],
+                          [0, [18, [4, 20]]],
+                          [3, 0]
+                        ]
+                      ],
+                      [
+                        6,
+                        33,
+                        "MoveTo",
+                        725895433422953,
+                        0,
+                        null,
+                        [[0, [19, [4, 20]]]]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            3,
+            [false, "Game"],
+            false,
+            null,
+            177504201837742,
+            9,
+            [[-1, 13, null, 0, false, false, false, 0, false, [[1, [5]]]]],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                265546128259061,
+                10,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    690381493213814,
+                    null,
+                    [
+                      [11, 963240917556636],
+                      [8, 4],
+                      [7, [1]]
+                    ]
+                  ],
+                  [
+                    -1,
+                    35,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    575262901179208,
+                    null,
+                    [[0, [10]]]
+                  ]
+                ],
+                [
+                  [
+                    -1,
+                    36,
+                    null,
+                    837266194989260,
+                    0,
+                    null,
+                    [
+                      [11, 963240917556636],
+                      [7, [10]]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                895540806890759,
+                11,
+                [
+                  [
+                    6,
+                    37,
+                    "MoveTo",
+                    1,
+                    false,
+                    false,
+                    false,
+                    576430778354497,
+                    null
+                  ]
+                ],
+                [
+                  [
+                    6,
+                    32,
+                    "MoveTo",
+                    134357899631219,
+                    0,
+                    null,
+                    [
+                      [0, [17, [4, 20]]],
+                      [0, [18, [4, 20]]],
+                      [3, 0]
+                    ]
+                  ],
+                  [
+                    6,
+                    33,
+                    "MoveTo",
+                    384895789111306,
+                    0,
+                    null,
+                    [[0, [19, [4, 20]]]]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                308671611722978,
+                12,
+                [
+                  [
+                    27,
+                    24,
+                    null,
+                    1,
+                    false,
+                    false,
+                    false,
+                    846425695856808,
+                    null,
+                    [
+                      [4, 6],
+                      [3, 0]
+                    ]
+                  ]
+                ],
+                [
+                  [6, 38, null, 919017655779626, 0, null],
+                  [6, 39, null, 853839684963191, 0, null, [[0, [20]]]],
+                  [-1, 26, null, 485349705240993, 1, null, [[0, [15]]]],
+                  [
+                    6,
+                    19,
+                    null,
+                    885397881484933,
+                    0,
+                    null,
+                    [
+                      [1, [6]],
+                      [0, [1]],
+                      [0, [7, [4, 20]]]
+                    ]
+                  ],
+                  [6, 39, null, 548890281257127, 0, null, [[0, [10]]]]
+                ],
+                [
+                  [
+                    0,
+                    0,
+                    false,
+                    null,
+                    946765199538161,
+                    13,
+                    [
+                      [
+                        6,
+                        40,
+                        null,
+                        0,
+                        false,
+                        false,
+                        false,
+                        228118058839664,
+                        null,
+                        [
+                          [8, 1],
+                          [0, [2, [3, 303351563276667]]]
+                        ]
+                      ]
+                    ],
+                    [
+                      [
+                        -1,
+                        36,
+                        null,
+                        278317065372116,
+                        0,
+                        null,
+                        [
+                          [11, 690062105903148],
+                          [7, [2, [3, 207172970177632]]]
+                        ]
+                      ],
+                      [
+                        24,
+                        41,
+                        null,
+                        209930104750377,
+                        0,
+                        null,
+                        [
+                          [2, ["wrong2", false]],
+                          [3, 0],
+                          [0, [1]],
+                          [0, [1]],
+                          [1, [21]]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    0,
+                    0,
+                    false,
+                    null,
+                    212064143265609,
+                    14,
+                    [
+                      [
+                        6,
+                        40,
+                        null,
+                        0,
+                        false,
+                        false,
+                        false,
+                        878478780126182,
+                        null,
+                        [
+                          [8, 0],
+                          [0, [2, [3, 303351563276667]]]
+                        ]
+                      ]
+                    ],
+                    [
+                      [6, 38, null, 486441142065065, 0, null],
+                      [
+                        -1,
+                        42,
+                        null,
+                        704156059880822,
+                        0,
+                        null,
+                        [
+                          [11, 303351563276667],
+                          [7, [10]]
+                        ]
+                      ],
+                      [
+                        -1,
+                        42,
+                        null,
+                        809407216974870,
+                        0,
+                        null,
+                        [
+                          [11, 690062105903148],
+                          [7, [2, [3, 273098794896973]]]
+                        ]
+                      ],
+                      [6, 43, "Fade", 978703513859529, 0, null],
+                      [
+                        24,
+                        41,
+                        null,
+                        949060480389798,
+                        0,
+                        null,
+                        [
+                          [2, ["coin", false]],
+                          [3, 0],
+                          [0, [1]],
+                          [0, [1]],
+                          [1, [21]]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            3,
+            [true, "Other"],
+            false,
+            null,
+            337382618470875,
+            15,
+            [[-1, 13, null, 0, false, false, false, 0, false, [[1, [22]]]]],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                486805054862354,
+                16,
+                [
+                  [
+                    26,
+                    44,
+                    null,
+                    2,
+                    false,
+                    false,
+                    false,
+                    339474093108258,
+                    null,
+                    [[1, [23]]]
+                  ]
+                ],
+                [[6, 45, "MoveTo", 193656416475056, 0, null, [[16, false]]]]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                760508817142986,
+                17,
+                [
+                  [
+                    26,
+                    44,
+                    null,
+                    2,
+                    false,
+                    false,
+                    false,
+                    432783765641747,
+                    null,
+                    [[1, [24]]]
+                  ]
+                ],
+                [[6, 45, "MoveTo", 550243910409671, 0, null, [[16, true]]]]
+              ]
+            ]
+          ],
+          [
+            3,
+            [true, "End"],
+            false,
+            null,
+            902787377740969,
+            18,
+            [[-1, 13, null, 0, false, false, false, 0, false, [[1, [25]]]]],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                673275667903731,
+                19,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    763966535125784,
+                    null,
+                    [
+                      [11, 963240917556636],
+                      [8, 3],
+                      [7, [1]]
+                    ]
+                  ],
+                  [-1, 46, null, 0, false, false, false, 337382145134706, null]
+                ],
+                [
+                  [
+                    -1,
+                    18,
+                    null,
+                    848218124907359,
+                    0,
+                    null,
+                    [
+                      [1, [5]],
+                      [3, 0]
+                    ]
+                  ],
+                  [
+                    24,
+                    41,
+                    null,
+                    517213082075084,
+                    0,
+                    null,
+                    [
+                      [2, ["wrong2", false]],
+                      [3, 0],
+                      [0, [1]],
+                      [0, [1]],
+                      [1, [21]]
+                    ]
+                  ],
+                  [
+                    -1,
+                    27,
+                    null,
+                    910199199480855,
+                    256,
+                    null,
+                    [
+                      [4, 23],
+                      [5, [11]],
+                      [0, [12]],
+                      [0, [13]],
+                      [16, false],
+                      [20, [14]]
+                    ]
+                  ],
+                  [-1, 26, null, 542689358388622, 1, null, [[0, [26]]]],
+                  [-1, 47, null, 533507593231845, 0, null, [[6, "Score"]]]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                902448725899437,
+                20,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    211877954657683,
+                    null,
+                    [
+                      [11, 303351563276667],
+                      [8, 5],
+                      [7, [27]]
+                    ]
+                  ],
+                  [-1, 46, null, 0, false, false, false, 452275889584228, null]
+                ],
+                [
+                  [
+                    -1,
+                    18,
+                    null,
+                    967621845493419,
+                    0,
+                    null,
+                    [
+                      [1, [5]],
+                      [3, 0]
+                    ]
+                  ],
+                  [
+                    24,
+                    41,
+                    null,
+                    103629103274675,
+                    0,
+                    null,
+                    [
+                      [2, ["finish", false]],
+                      [3, 0],
+                      [0, [1]],
+                      [0, [1]],
+                      [1, [21]]
+                    ]
+                  ],
+                  [
+                    -1,
+                    27,
+                    null,
+                    382445623302724,
+                    256,
+                    null,
+                    [
+                      [4, 9],
+                      [5, [11]],
+                      [0, [12]],
+                      [0, [13]],
+                      [16, false],
+                      [20, [14]]
+                    ]
+                  ],
+                  [
+                    -1,
+                    42,
+                    null,
+                    971773845079527,
+                    0,
+                    null,
+                    [
+                      [11, 690062105903148],
+                      [7, [2, [3, 963240917556636]]]
+                    ]
+                  ],
+                  [-1, 26, null, 788595429914949, 1, null, [[0, [26]]]],
+                  [-1, 47, null, 461241828254867, 0, null, [[6, "Score"]]]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Loading",
+        [
+          [
+            0,
+            0,
+            false,
+            null,
+            853446402934581,
+            1,
+            [[-1, 48, null, 1, false, false, false, 755135473179172, null]],
+            [
+              [-1, 26, null, 583003533948116, 1, null, [[0, [10]]]],
+              [-1, 47, null, 425245143766313, 0, null, [[6, "Start"]]]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            361445482636025,
+            2,
+            [[-1, 23, null, 0, false, false, false, 150949007144505, null]],
+            [[29, 22, null, 501231628011230, 0, null, [[7, [28, [4, 49]]]]]]
+          ]
+        ]
+      ],
+      [
+        "Score",
+        [
+          [2, "Audio", false],
+          [1, "NewScore", 0, 0, false, false, 972765397796250, false, 40],
+          [1, "BestScore", 0, 0, false, false, 761755703037733, false, 41],
+          [
+            0,
+            0,
+            false,
+            null,
+            897014500562017,
+            1,
+            [[-1, 14, null, 1, false, false, false, 997307920636525, null]],
+            [
+              [
+                -1,
+                15,
+                null,
+                509008075789077,
+                0,
+                null,
+                [
+                  [11, 972765397796250],
+                  [7, [2, [3, 690062105903148]]]
+                ]
+              ],
+              [28, 50, null, 492130295406670, 2048, null, [[1, [29]]]],
+              [
+                29,
+                22,
+                null,
+                888128794209256,
+                0,
+                null,
+                [[7, [2, [3, 972765397796250]]]]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            703125364477811,
+            2,
+            [
+              [
+                28,
+                51,
+                null,
+                1,
+                false,
+                false,
+                false,
+                731626852923786,
+                null,
+                [[1, [29]]]
+              ]
+            ],
+            [
+              [
+                -1,
+                15,
+                null,
+                537387517733463,
+                0,
+                null,
+                [
+                  [11, 761755703037733],
+                  [7, [2, [3, 972765397796250]]]
+                ]
+              ],
+              [
+                28,
+                52,
+                null,
+                923080067568446,
+                2048,
+                null,
+                [
+                  [1, [29]],
+                  [7, [2, [3, 761755703037733]]]
+                ]
+              ],
+              [
+                30,
+                22,
+                null,
+                843199684489206,
+                0,
+                null,
+                [[7, [2, [3, 761755703037733]]]]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            202698059212777,
+            3,
+            [
+              [
+                28,
+                53,
+                null,
+                1,
+                false,
+                false,
+                false,
+                333893789311139,
+                null,
+                [[1, [29]]]
+              ]
+            ],
+            [[28, 54, null, 530386153561077, 2048, null, [[1, [29]]]]]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            687943286781007,
+            4,
+            [
+              [
+                28,
+                55,
+                null,
+                1,
+                false,
+                false,
+                false,
+                349295651598547,
+                null,
+                [[1, [29]]]
+              ]
+            ],
+            [
+              [
+                -1,
+                15,
+                null,
+                377734181621764,
+                0,
+                null,
+                [
+                  [11, 761755703037733],
+                  [7, [30, [1, 28, 56, false]]]
+                ]
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                274614054514084,
+                5,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    893050924748469,
+                    null,
+                    [
+                      [11, 972765397796250],
+                      [8, 4],
+                      [7, [2, [3, 761755703037733]]]
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    -1,
+                    15,
+                    null,
+                    109126103152514,
+                    0,
+                    null,
+                    [
+                      [11, 761755703037733],
+                      [7, [2, [3, 972765397796250]]]
+                    ]
+                  ],
+                  [
+                    28,
+                    52,
+                    null,
+                    565481287845041,
+                    2048,
+                    null,
+                    [
+                      [1, [29]],
+                      [7, [2, [3, 761755703037733]]]
+                    ]
+                  ],
+                  [
+                    30,
+                    22,
+                    null,
+                    988633672411740,
+                    0,
+                    null,
+                    [[7, [2, [3, 761755703037733]]]]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                559863848870340,
+                6,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    829719281308186,
+                    null,
+                    [
+                      [11, 972765397796250],
+                      [8, 3],
+                      [7, [2, [3, 761755703037733]]]
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    30,
+                    22,
+                    null,
+                    282375099163161,
+                    0,
+                    null,
+                    [[7, [2, [3, 761755703037733]]]]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            971293456361574,
+            7,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                143213320079389,
+                null,
+                [
+                  [4, 16],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [
+              [-1, 26, null, 656625550197585, 1, null, [[0, [10]]]],
+              [-1, 47, null, 356993636224895, 0, null, [[6, "Start"]]]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            316265066640880,
+            8,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                264116727265289,
+                null,
+                [
+                  [4, 13],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [
+              [-1, 26, null, 196309517550585, 1, null, [[0, [10]]]],
+              [-1, 47, null, 881922236196122, 0, null, [[6, "Game"]]]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Start",
+        [
+          [2, "Audio", false],
+          [
+            0,
+            0,
+            false,
+            null,
+            174928331332838,
+            1,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                940743374206148,
+                null,
+                [
+                  [4, 0],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [[-1, 47, null, 773070490395144, 0, null, [[6, "Game"]]]]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            943158855519022,
+            2,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                480610929917633,
+                null,
+                [
+                  [4, 1],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [[25, 57, null, 337935623030823, 0, null]]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            857901073180435,
+            3,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                882598968558286,
+                null,
+                [
+                  [4, 15],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                103282357885071,
+                4,
+                [
+                  [
+                    15,
+                    40,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    236573853042384,
+                    null,
+                    [
+                      [8, 0],
+                      [0, [1]]
+                    ]
+                  ]
+                ],
+                [
+                  [-1, 26, null, 784747177223790, 1, null, [[0, [31]]]],
+                  [
+                    25,
+                    58,
+                    null,
+                    139919203960830,
+                    0,
+                    null,
+                    [
+                      [3, 3],
+                      [3, 0]
+                    ]
+                  ],
+                  [15, 59, null, 531188925984804, 0, null, [[7, [10]]]]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                378052384341744,
+                5,
+                [
+                  [
+                    15,
+                    40,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    334679681808053,
+                    null,
+                    [
+                      [8, 0],
+                      [0, [10]]
+                    ]
+                  ]
+                ],
+                [
+                  [-1, 26, null, 557969128866851, 1, null, [[0, [31]]]],
+                  [25, 60, null, 535481701222216, 0, null],
+                  [15, 59, null, 859431835785970, 0, null, [[7, [1]]]]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Audio",
+        [
+          [
+            0,
+            0,
+            false,
+            null,
+            812467192868336,
+            1,
+            [[-1, 14, null, 1, false, false, false, 272549069197176, null]],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                111406076301555,
+                2,
+                [
+                  [
+                    24,
+                    61,
+                    null,
+                    0,
+                    false,
+                    true,
+                    false,
+                    358428004639513,
+                    null,
+                    [[1, [32]]]
+                  ]
+                ],
+                [
+                  [
+                    24,
+                    41,
+                    null,
+                    862047511986355,
+                    0,
+                    null,
+                    [
+                      [2, ["background", false]],
+                      [3, 1],
+                      [0, [1]],
+                      [0, [1]],
+                      [1, [32]]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                226659902202685,
+                3,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    103033224264366,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [8, 0],
+                      [7, [1]]
+                    ]
+                  ]
+                ],
+                [
+                  [17, 59, null, 446181352764177, 0, null, [[7, [1]]]],
+                  [2, 59, null, 407357208585683, 0, null, [[7, [1]]]]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                302411178878305,
+                4,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    562756320101463,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [8, 0],
+                      [7, [10]]
+                    ]
+                  ]
+                ],
+                [
+                  [17, 59, null, 645223558022654, 0, null, [[7, [10]]]],
+                  [2, 59, null, 202956080535909, 0, null, [[7, [10]]]]
+                ]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            536373698998554,
+            5,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                574827280767341,
+                null,
+                [
+                  [4, 2],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                373546469164061,
+                6,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    723505487070134,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [8, 0],
+                      [7, [1]]
+                    ]
+                  ]
+                ],
+                [
+                  [-1, 26, null, 223658974459323, 1, null, [[0, [15]]]],
+                  [24, 62, null, 371100741701398, 0, null, [[3, 1]]],
+                  [2, 59, null, 736010433326997, 0, null, [[7, [10]]]],
+                  [
+                    -1,
+                    15,
+                    null,
+                    515133469896724,
+                    0,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [7, [10]]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                188641575339476,
+                7,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    804471851073008,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [8, 0],
+                      [7, [10]]
+                    ]
+                  ]
+                ],
+                [
+                  [-1, 26, null, 834674369955026, 1, null, [[0, [15]]]],
+                  [24, 62, null, 576496089758942, 0, null, [[3, 0]]],
+                  [2, 59, null, 358884309102296, 0, null, [[7, [1]]]],
+                  [
+                    -1,
+                    15,
+                    null,
+                    547275323823971,
+                    0,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [7, [1]]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            941048549460696,
+            8,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                984799930630514,
+                null,
+                [
+                  [4, 17],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [],
+            [
+              [
+                0,
+                0,
+                false,
+                null,
+                556627618650580,
+                9,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    403013256443695,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [8, 0],
+                      [7, [1]]
+                    ]
+                  ]
+                ],
+                [
+                  [-1, 63, null, 252832551143982, 0, null, [[0, [10]]]],
+                  [-1, 26, null, 203189284552855, 1, null, [[0, [15]]]],
+                  [24, 62, null, 316374747475450, 0, null, [[3, 1]]],
+                  [17, 59, null, 315609710110632, 0, null, [[7, [10]]]],
+                  [
+                    -1,
+                    15,
+                    null,
+                    735622625977135,
+                    0,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [7, [10]]
+                    ]
+                  ],
+                  [-1, 63, null, 883819023414572, 0, null, [[0, [1]]]]
+                ]
+              ],
+              [
+                0,
+                0,
+                false,
+                null,
+                378279311147539,
+                10,
+                [
+                  [
+                    -1,
+                    34,
+                    null,
+                    0,
+                    false,
+                    false,
+                    false,
+                    390394670692523,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [8, 0],
+                      [7, [10]]
+                    ]
+                  ]
+                ],
+                [
+                  [-1, 63, null, 338658587867112, 0, null, [[0, [10]]]],
+                  [-1, 26, null, 347915395391944, 1, null, [[0, [15]]]],
+                  [24, 62, null, 190492530660065, 0, null, [[3, 0]]],
+                  [17, 59, null, 873687448397746, 0, null, [[7, [1]]]],
+                  [
+                    -1,
+                    15,
+                    null,
+                    920305240365317,
+                    0,
+                    null,
+                    [
+                      [11, 566935789066408],
+                      [7, [1]]
+                    ]
+                  ],
+                  [-1, 63, null, 164675790236376, 0, null, [[0, [1]]]]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Pause",
+        [
+          [
+            0,
+            0,
+            false,
+            null,
+            206219902063486,
+            1,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                642901024728510,
+                null,
+                [
+                  [4, 4],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [
+              [
+                -1,
+                27,
+                null,
+                210017057820092,
+                256,
+                null,
+                [
+                  [4, 8],
+                  [5, [23]],
+                  [0, [1]],
+                  [0, [1]],
+                  [16, false],
+                  [20, [14]]
+                ]
+              ],
+              [4, 16, null, 344639775120583, 0, null, [[0, [3]]]],
+              [26, 64, null, 649064430163043, 0, null, [[1, [23]], [13]]],
+              [
+                -1,
+                27,
+                null,
+                454587034241946,
+                256,
+                null,
+                [
+                  [4, 0],
+                  [5, [23]],
+                  [0, [12]],
+                  [0, [33]],
+                  [16, false],
+                  [20, [14]]
+                ]
+              ],
+              [
+                -1,
+                27,
+                null,
+                470710236694486,
+                256,
+                null,
+                [
+                  [4, 17],
+                  [5, [23]],
+                  [0, [34]],
+                  [0, [35]],
+                  [16, false],
+                  [20, [14]]
+                ]
+              ],
+              [
+                -1,
+                27,
+                null,
+                600506947950927,
+                256,
+                null,
+                [
+                  [4, 12],
+                  [5, [23]],
+                  [0, [12]],
+                  [0, [35]],
+                  [16, false],
+                  [20, [14]]
+                ]
+              ],
+              [
+                -1,
+                27,
+                null,
+                442504633136465,
+                256,
+                null,
+                [
+                  [4, 13],
+                  [5, [23]],
+                  [0, [36]],
+                  [0, [35]],
+                  [16, false],
+                  [20, [14]]
+                ]
+              ],
+              [
+                17,
+                59,
+                null,
+                314693526210882,
+                0,
+                null,
+                [[7, [2, [3, 566935789066408]]]]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            418804440916325,
+            2,
+            [[8, 65, null, 1, false, false, false, 908222485363112, null]],
+            [
+              [
+                8,
+                66,
+                null,
+                522220175373525,
+                0,
+                null,
+                [
+                  [0, [37]],
+                  [0, [38]]
+                ]
+              ]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            396516643886179,
+            3,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                540438893327373,
+                null,
+                [
+                  [4, 0],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [
+              [-1, 63, null, 990065806953207, 0, null, [[0, [10]]]],
+              [-1, 26, null, 960684790873714, 1, null, [[0, [31]]]],
+              [4, 16, null, 613820638756208, 0, null, [[0, [16]]]],
+              [8, 67, null, 177155823694631, 0, null],
+              [0, 31, null, 353688165585549, 0, null],
+              [17, 31, null, 746268962420211, 0, null],
+              [12, 31, null, 987657848382916, 0, null],
+              [13, 31, null, 135578655518560, 0, null],
+              [26, 64, null, 635413355033882, 0, null, [[1, [24]], [13]]]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            649937314800061,
+            4,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                999856019532919,
+                null,
+                [
+                  [4, 12],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [
+              [-1, 63, null, 752733559362273, 0, null, [[0, [10]]]],
+              [-1, 26, null, 782961271620021, 1, null, [[0, [31]]]],
+              [-1, 47, null, 847442521813933, 0, null, [[6, "Start"]]]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            995850466749398,
+            5,
+            [
+              [
+                27,
+                24,
+                null,
+                1,
+                false,
+                false,
+                false,
+                364111252825513,
+                null,
+                [
+                  [4, 13],
+                  [3, 0]
+                ]
+              ]
+            ],
+            [
+              [-1, 63, null, 659756312469677, 0, null, [[0, [10]]]],
+              [-1, 26, null, 681375631089814, 1, null, [[0, [31]]]],
+              [-1, 68, null, 434565850730354, 0, null]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            606721592364406,
+            6,
+            [
+              [
+                26,
+                44,
+                null,
+                2,
+                false,
+                false,
+                false,
+                720687488046216,
+                null,
+                [[1, [23]]]
+              ]
+            ],
+            [
+              [
+                -1,
+                18,
+                null,
+                102965368007609,
+                0,
+                null,
+                [
+                  [1, [5]],
+                  [3, 0]
+                ]
+              ],
+              [-1, 63, null, 532455210536080, 0, null, [[0, [1]]]]
+            ]
+          ],
+          [
+            0,
+            0,
+            false,
+            null,
+            197785923943737,
+            7,
+            [
+              [
+                26,
+                44,
+                null,
+                2,
+                false,
+                false,
+                false,
+                789608382806270,
+                null,
+                [[1, [24]]]
+              ]
+            ],
+            [
+              [-1, 63, null, 385750311815883, 0, null, [[0, [10]]]],
+              [
+                -1,
+                18,
+                null,
+                514062660263911,
+                0,
+                null,
+                [
+                  [1, [5]],
+                  [3, 1]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Variables",
+        [
+          [1, "Audio", 0, 1, false, false, 566935789066408, false, 30],
+          [1, "Collect", 0, 0, false, false, 303351563276667, false, 42],
+          [1, "Timer", 0, 0, false, false, 963240917556636, false, 43],
+          [1, "Score", 0, 0, false, false, 690062105903148, false, 44],
+          [
+            1,
+            "HowToPlay",
+            1,
+            "TOUCH THE LETTERS IN ALPHABETICAL ORDER.",
+            false,
+            false,
+            481350889591931,
+            false,
+            45
+          ],
+          [1, "PlayingTime", 0, 60, false, false, 879303435576152, false, 46],
+          [1, "AddCoins", 0, 10, false, false, 273098794896973, false, 47],
+          [1, "SubtractScore", 0, 1, false, false, 207172970177632, false, 48]
+        ]
+      ]
+    ],
+    [
+      ["background", [["audio/webm; codecs=opus", ".webm", 1642842]], false],
+      ["button", [["audio/webm; codecs=opus", ".webm", 7231]], false],
+      ["coin", [["audio/webm; codecs=opus", ".webm", 15703]], false],
+      ["finish", [["audio/webm; codecs=opus", ".webm", 19902]], false],
+      ["wrong2", [["audio/webm; codecs=opus", ".webm", 9537]], false]
+    ],
+    "media/",
+    false,
+    1280,
+    720,
+    4,
+    false,
+    "trilinear",
+    false,
+    "1.0.0.0",
+    false,
+    true,
+    3,
+    2,
+    3622,
+    false,
+    true,
+    1,
+    true,
+    0.7853981633974483,
+    [],
+    "icons/",
+    [],
+    "normalized",
+    "j8ytefnmni59",
+    "fonts/",
+    [],
+    "high-performance",
+    [],
+    null,
+    "vsync",
+    "com.cgfx.game",
+    "loading-logo.png",
+    false,
+    4,
+    false,
+    null,
+    [],
+    "flat",
+    1,
+    10000,
+    false,
+    []
+  ]
+}
